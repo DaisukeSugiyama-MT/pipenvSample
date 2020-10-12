@@ -65,3 +65,23 @@ pipenv uninstall {モジュール名}
 
 ## その他
 仮想環境内でコマンドを実行するrunコマンドやPipfileの内容をPipfile.lockへ反映するlockコマンド等があります。
+
+
+<br/>
+
+
+### 参考記事
+
+[Pythonで、Pipenvを使う](https://blog.narito.ninja/detail/58/)
+
+[【図で理解】PipenvによるPython仮想環境の管理](https://qiita.com/mtitg/items/3aa5e5c6d1c1cf6fd3c2)
+
+<br/>
+
+## pipenv以外のパッケージ管理ツール
+[poetry](https://github.com/python-poetry/poetry)
+
+[pyflow](https://github.com/David-OConnor/pyflow)
+
+### 参考記事
+[2020 年の Python パッケージ管理ベストプラクティス](https://qiita.com/sk217/items/43c994640f4843a18dbe)
